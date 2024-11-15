@@ -1,11 +1,124 @@
 {
-    "posts": [
-      {
-        "id": 1,
-        "title": "hello"
-      }
-    ],
-    "profile": {
-      "name": "reina"
-    }
+    "tasks": [
+        {
+            "id": 1,
+            "title": "Organize Workspace",
+            "description": "Declutter desk and organize files for better productivity.",
+            "priority": "medium",
+            "label": "personal",
+            "created_at": "2024-11-15",
+            "due_date": "2024-11-18",
+            "status": "to_do",
+            "updated_at": "2024-11-15",
+            "project": "Home Improvement"
+        },
+        {
+            "id": 2,
+            "title": "Grocery Shopping",
+            "description": "Buy weekly groceries including fresh vegetables, fruits, and essentials.",
+            "priority": "high",
+            "label": "personal",
+            "created_at": "2024-11-15",
+            "due_date": "2024-11-16",
+            "status": "to_do",
+            "updated_at": "2024-11-15",
+            "project": "Household"
+        },
+        {
+            "id": 3,
+            "title": "Write Blog Post",
+            "description": "Draft and publish a blog post about productivity hacks.",
+            "priority": "medium",
+            "label": "work",
+            "created_at": "2024-11-14",
+            "due_date": "2024-11-20",
+            "status": "to_do",
+            "updated_at": "2024-11-14",
+            "project": "Content Creation"
+        },
+        {
+            "id": 4,
+            "title": "Prepare for Team Meeting",
+            "description": "Compile key updates and prepare slides for the weekly meeting.",
+            "priority": "high",
+            "label": "work",
+            "created_at": "2024-11-13",
+            "due_date": "2024-11-17",
+            "status": "in_progress",
+            "updated_at": "2024-11-15",
+            "project": "Team Management"
+        },
+        {
+            "id": 5,
+            "title": "Watch Documentary",
+            "description": "Watch a documentary on sustainable living practices.",
+            "priority": "low",
+            "label": "personal",
+            "created_at": "2024-11-15",
+            "due_date": "2024-11-22",
+            "status": "to_do",
+            "updated_at": "2024-11-15",
+            "project": "Leisure"
+        },
+        {
+            "id": 6,
+            "title": "Call Parents",
+            "description": "Catch up with parents over the weekend.",
+            "priority": "high",
+            "label": "personal",
+            "created_at": "2024-11-15",
+            "due_date": "2024-11-17",
+            "status": "to_do",
+            "updated_at": "2024-11-15",
+            "project": "Family"
+        },
+        {
+            "id": 7,
+            "title": "Learn Python Basics",
+            "description": "Complete the first module of an online Python course.",
+            "priority": "high",
+            "label": "learning",
+            "created_at": "2024-11-15",
+            "due_date": "2024-11-30",
+            "status": "to_do",
+            "updated_at": "2024-11-15",
+            "project": "Skill Development"
+        },
+        {
+            "id": 8,
+            "title": "Meal Prep",
+            "description": "Prepare and store meals for the week.",
+            "priority": "medium",
+            "label": "personal",
+            "created_at": "2024-11-15",
+            "due_date": "2024-11-18",
+            "status": "to_do",
+            "updated_at": "2024-11-15",
+            "project": "Household"
+        },
+        {
+            "id": 9,
+            "title": "Fix Leaky Faucet",
+            "description": "Repair the faucet in the kitchen sink.",
+            "priority": "high",
+            "label": "personal",
+            "created_at": "2024-11-15",
+            "due_date": "2024-11-19",
+            "status": "to_do",
+            "updated_at": "2024-11-15",
+            "project": "Home Maintenance"
+        },
+        {
+            "id": 10,
+            "title": "Meditation Practice",
+            "description": "Practice a 10-minute guided meditation session.",
+            "priority": "low",
+            "label": "health",
+            "created_at": "2024-11-15",
+            "due_date": "2024-11-15",
+            "status": "to_do",
+            "updated_at": "2024-11-15",
+            "project": "Personal Wellness"
+        }
+    ]
 }
